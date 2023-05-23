@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Last name is "+student.getLastName());
         System.out.println("Courses are "+Arrays.toString(student.getCourses()));*/
 
-/**University, School, Car жана Person деген класс тузунуз
+/**Homework-9 University, School, Car жана Person деген класс тузунуз
  Алардын свойстваларын ойлоп табыныз
  Геттер сеттерлерди маани беруу жана алуу учун колдонуу керек
  Ар бир класска 3-4 тон объект тузуп жана аларга маанилерин бериниз
